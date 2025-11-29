@@ -2,5 +2,5 @@
 
 - Your student ID: **23BA14004*
 - Your name: **Nghiem Trong Quoc Anh**
-- Your class: **ICT1**
+- Your class: **ICT2**
 
